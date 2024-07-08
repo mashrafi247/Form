@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+label{
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+
+button{
+    font-size: 18px;
+}
+.A{
+    margin-left:20px;
+}
+.C{
+    margin-left:50px;
+}
+.D{
+    margin-left:25px;
+}
+.B{
+    margin-left: 20px;
+}
+.F{
+    margin-left: 45px;
+}
+
+
+.form{
+    text-align: left;
+    padding: 20px;
+    width: 500px;
+    border: 3px solid rgb(5, 5, 5);
+    margin: auto;
+}
+.b{
+    text-align: center;
+}
+
+.b button{
+    margin-right: 20px;
+}
+input{
+}
+body{
+    background-color: rgb(243, 232, 232);
+}
